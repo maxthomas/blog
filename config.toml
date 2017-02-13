@@ -1,0 +1,11 @@
+baseURL = "https://maxthomas.github.io/blog"
+languageCode = "en-us"
+title = "Max's blog"
+theme = "purehugo"
+publishDir = "docs"
+
+[params]
+  twitterName = "maxthomas"
+  githubName = "maxthomas"
+  description = "Lensing and traversing through technology"
+
