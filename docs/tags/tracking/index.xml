@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Max&#39;s blog</title>
-    <link>https://maxthomas.github.io/blog/post/index.xml</link>
-    <description>Recent content in Posts on Max&#39;s blog</description>
+    <title>Tracking on Max&#39;s blog</title>
+    <link>https://maxthomas.github.io/blog/tags/tracking/index.xml</link>
+    <description>Recent content in Tracking on Max&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2017 17:47:31 -0500</lastBuildDate>
-    <atom:link href="https://maxthomas.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maxthomas.github.io/blog/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Now Entering an Analytics-Free Zone</title>
@@ -177,31 +176,6 @@ analytics won&amp;rsquo;t be a part of the experience around here.&lt;/p&gt;
 
 &lt;p&gt;With that said, enjoy a non-intrusive (and hopefully speedy)
 experience on this blog, now and in to the future.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>first</title>
-      <link>https://maxthomas.github.io/blog/post/firstPost/</link>
-      <pubDate>Sun, 12 Feb 2017 22:42:46 -0500</pubDate>
-      
-      <guid>https://maxthomas.github.io/blog/post/firstPost/</guid>
-      <description>&lt;p&gt;Welcome to my blog. I&amp;rsquo;m told that perfection is the enemy of the
-good - or something like that - so I&amp;rsquo;m getting on with starting this
-blog up&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip; just as soon as I choose a theme&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;As I see it, this blog will contain topics related to technology,
-software, security and privacy, and may be a little bit of financial
-and business information. That sounded super dry, but hopefully
-we&amp;rsquo;ll have a bit of fun along the way.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve done a ton of work that has never seen the light of day. I hope
-this blog will be a way for me to give a little something back to the
-community.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading.&lt;/p&gt;
 </description>
     </item>
     
