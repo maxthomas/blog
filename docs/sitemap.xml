@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://maxthomas.github.io/blog/post/cm-to-lineage-kiwi/</loc>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maxthomas.github.io/blog/post/analytics-free/</loc>
     <lastmod>2017-02-19T17:47:31-05:00</lastmod>
   </url>
@@ -9,6 +14,12 @@
   <url>
     <loc>https://maxthomas.github.io/blog/post/firstPost/</loc>
     <lastmod>2017-02-12T22:42:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maxthomas.github.io/blog/tags/adb/</loc>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -24,7 +35,31 @@
   </url>
   
   <url>
+    <loc>https://maxthomas.github.io/blog/tags/android/</loc>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxthomas.github.io/blog/categories/android/</loc>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://maxthomas.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxthomas.github.io/blog/tags/cyanogenmod/</loc>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxthomas.github.io/blog/categories/cyanogenmod/</loc>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,8 +70,26 @@
   </url>
   
   <url>
+    <loc>https://maxthomas.github.io/blog/tags/huawei-honor-5x/</loc>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxthomas.github.io/blog/tags/lineageos/</loc>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxthomas.github.io/blog/categories/lineageos/</loc>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://maxthomas.github.io/blog/</loc>
-    <lastmod>2017-02-19T17:47:31-05:00</lastmod>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,7 +101,7 @@
   
   <url>
     <loc>https://maxthomas.github.io/blog/post/</loc>
-    <lastmod>2017-02-19T17:47:31-05:00</lastmod>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,6 +125,12 @@
   <url>
     <loc>https://maxthomas.github.io/blog/tags/tracking/</loc>
     <lastmod>2017-02-19T17:47:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxthomas.github.io/blog/tags/twrp/</loc>
+    <lastmod>2017-03-11T15:58:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
