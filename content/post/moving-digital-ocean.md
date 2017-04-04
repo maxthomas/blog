@@ -2,8 +2,8 @@
 date = "2017-03-26T16:05:23-05:00"
 title = "Moving the blog host to DigitalOcean, FreeBSD, and nginx"
 Description = "Describing the process of moving from GitHub pages to DigitalOcean, FreeBSD, and nginx inside a jail."
-Categories = ["digital-ocean", "freebsd", "ssl"]
-Tags = [ "digital-ocean", "freebsd", "jails", "ssl", "lets-encrypt", "nginx", "gandi" ]
+Categories = ["digital-ocean", "freebsd", "ssl", "encryption" ]
+Tags = [ "digital-ocean", "freebsd", "jails", "ssl", "lets-encrypt", "nginx", "gandi", "encryption" ]
 
 +++
 
